@@ -176,5 +176,4 @@ Réponse :
 
 25. Le nom `origin` donné à un dépôt distant est:
   
- - Obligatoire.
  - Une convention.
