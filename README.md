@@ -95,10 +95,8 @@ Réponse :
  - lister les alias des dépôts distants configurés sur le dépôt local
 
 5. Quels sont les 2 types de branches qui existent dans un dépôt git *sur* l'ordinateur d'un·e développeur·se ?
+
  - les références locales de branches distantes
- - les transactions
- - les locales
- - les distantes
 
 6. À quoi sert la commande `git fetch -p` ? Utiliser la documentation `man git fetch`.
  - mettre à jour les branches locales par rapport aux branches distantes
