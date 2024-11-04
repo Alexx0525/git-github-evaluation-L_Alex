@@ -44,7 +44,7 @@ La qualité du document (hiérarchie du contenu, lisibilité) et **le respect de
 
 <!-- ## Consignes
 
-- Étant donné le caractère fondamental des notions vues dans ce module, **l'usage d'IA générative, comme chatGPT ou CoPilot, est interdite** ! **Toute dérogation à cette règle entraînera une note de 0**;
+- Étant donnée le caractère fondamental des notions vues dans ce module, **l'usage d'IA générative, comme chatGPT ou CoPilot, est interdite** ! **Toute dérogation à cette règle entraînera une note de 0**;
 - Vous pouvez consulter vos notes de cours. -->
 
 ## Énoncé
